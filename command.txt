@@ -1,0 +1,17 @@
+今の状態を見る
+git status
+
+今のファイルの状態をローカル保存
+git add [ファイル名]
+
+バージョン作り
+git commit -m "コメント"
+
+全部元通り
+git checkout .
+
+githubの最新状態と同期
+git pull
+
+githubに反映
+git push
