@@ -13,6 +13,7 @@ function draw() {
   // }
 }
 
+let colors = ["#ff4444", "#44ff44", "#4444ff"]
 function mousePressed(){
   rect(mouseX-(width / 2), mouseY-(height / 2), width, height);
   fill("#ffffff");
